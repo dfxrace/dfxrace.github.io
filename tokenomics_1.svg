@@ -1,0 +1,17 @@
+<svg width="220" height="260" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <text transform="matrix(1 0 0 1 0 0)" style="cursor: move;" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Lato" font-size="35" id="svg_2" y="34" x="24.70833" stroke-dasharray="2,2" stroke-width="0" stroke="#000000" fill="#5fbf00">Tokenomics</text>
+  <path stroke="#000000" id="svg_38" d="m18.08464,111.34934c1.11066,-5.68496 3.11313,-10.53707 4.81668,-15.35246c1.98171,3.09021 3.6938,9.88863 5.18332,14.62358c-1.32855,5.47681 -3.24099,10.46469 -4.96384,15.37642c-1.85727,-4.49377 -3.44553,-9.628 -5.03616,-14.64754l0,0z" stroke-dasharray="2,2" stroke-width="0" fill="#3f007f"/>
+  <path stroke="#000000" id="svg_39" d="m18.08464,145.34934c1.11066,-5.68496 3.11313,-10.53707 4.81668,-15.35246c1.98171,3.09021 3.6938,9.88863 5.18332,14.62358c-1.32855,5.47681 -3.24099,10.46469 -4.96384,15.37642c-1.85727,-4.49377 -3.44553,-9.628 -5.03616,-14.64754l0,0z" stroke-dasharray="2,2" stroke-width="0" fill="#3f007f"/>
+  <path stroke="#000000" id="svg_40" d="m18.08464,179.34934c1.11066,-5.68496 3.11313,-10.53707 4.81668,-15.35246c1.98171,3.09021 3.6938,9.88863 5.18332,14.62358c-1.32855,5.47681 -3.24099,10.46469 -4.96384,15.37642c-1.85727,-4.49377 -3.44553,-9.628 -5.03616,-14.64754l0,0z" stroke-dasharray="2,2" stroke-width="0" fill="#3f007f"/>
+  <path stroke="#000000" id="svg_41" d="m18.08464,212.34934c1.11066,-5.68496 3.11313,-10.53707 4.81668,-15.35246c1.98171,3.09021 3.6938,9.88863 5.18332,14.62358c-1.32855,5.47681 -3.24099,10.46469 -4.96384,15.37642c-1.85727,-4.49377 -3.44553,-9.628 -5.03616,-14.64754l0,0z" stroke-dasharray="2,2" stroke-width="0" fill="#3f007f"/>
+  <path stroke="#000000" id="svg_42" d="m18.08464,76.34934c1.11066,-5.68496 3.11313,-10.53707 4.81668,-15.35246c1.98171,3.09021 3.6938,9.88863 5.18332,14.62358c-1.32855,5.47681 -3.24099,10.46469 -4.96384,15.37642c-1.85727,-4.49377 -3.44553,-9.628 -5.03616,-14.64754l0,0z" stroke-dasharray="2,2" stroke-width="0" fill="#3f007f"/>
+  <text style="cursor: move;" stroke="#000000" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Asap'" font-size="18" id="svg_43" y="81.3335" x="38" stroke-dasharray="2,2" stroke-width="0" fill="#ff0000">Private Sale             5%</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Asap'" font-size="18" id="svg_44" y="115.3335" x="38" stroke-dasharray="2,2" stroke-width="0" stroke="#000000" fill="#ff0000">Fair launch           20%</text>
+  <text style="cursor: move;" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Asap'" font-size="18" id="svg_45" y="149.3335" x="38" stroke-dasharray="2,2" stroke-width="0" stroke="#000000" fill="#ff0000">DEX Liquidity      10%</text>
+  <text style="cursor: move;" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Asap'" font-size="18" id="svg_46" y="183.3335" x="38" stroke-dasharray="2,2" stroke-width="0" stroke="#000000" fill="#ff0000">CEX Liquidity      15%</text>
+  <text style="cursor: move;" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Asap'" font-size="18" id="svg_47" y="217.3335" x="38" stroke-dasharray="2,2" stroke-width="0" stroke="#000000" fill="#ff0000">Game rewards      50%</text>
+ </g>
+
+</svg>

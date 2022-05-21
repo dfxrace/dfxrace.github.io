@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="110" height="130">
+
+<g transform="matrix(0.5 0 0 0.5 0 0)">
+	<g>
+		<text transform="matrix(1 0 0 1 0 0)" x="24.70833" y="34" style="fill:#5FBF00;font-family:Lato;" font-size="35">
+Tokenomics
+		</text>
+        <path d="M18.08464 111.34934C 19.195301 105.66438 21.197771 100.81227 22.901321 95.99688C 24.883032 99.08709 26.595121 105.88551 28.08464 110.62046C 26.75609 116.09727 24.84365 121.08515 23.1208 125.99688C 21.26353 121.50311 19.67527 116.36888 18.08464 111.34934z" stroke="none" fill="#3F007F" fill-rule="nonzero" />
+        <path d="M18.08464 145.34933C 19.195301 139.66437 21.197771 134.81227 22.901321 129.99687C 24.883032 133.08708 26.595121 139.8855 28.08464 144.62045C 26.75609 150.09726 24.84365 155.08514 23.1208 159.99687C 21.26353 155.5031 19.67527 150.36887 18.08464 145.34933z" stroke="none" fill="#3F007F" fill-rule="nonzero" />
+        <path d="M18.08464 179.34933C 19.195301 173.66437 21.197771 168.81227 22.901321 163.99687C 24.883032 167.08708 26.595121 173.8855 28.08464 178.62045C 26.75609 184.09726 24.84365 189.08514 23.1208 193.99687C 21.26353 189.5031 19.67527 184.36887 18.08464 179.34933z" stroke="none" fill="#3F007F" fill-rule="nonzero" />
+        <path d="M18.08464 212.34933C 19.195301 206.66437 21.197771 201.81227 22.901321 196.99687C 24.883032 200.08708 26.595121 206.8855 28.08464 211.62045C 26.75609 217.09726 24.84365 222.08514 23.1208 226.99687C 21.26353 222.5031 19.67527 217.36887 18.08464 212.34933z" stroke="none" fill="#3F007F" fill-rule="nonzero" />
+        <path d="M18.08464 76.34934C 19.195301 70.66438 21.197771 65.81227 22.901321 60.996883C 24.883032 64.0871 26.595121 70.88551 28.08464 75.62046C 26.75609 81.09727 24.84365 86.08515 23.1208 90.99688C 21.26353 86.50311 19.67527 81.36888 18.08464 76.34934z" stroke="none" fill="#3F007F" fill-rule="nonzero" />
+		<text transform="matrix(1 0 0 1 0 0)" x="38" y="81.3335" style="fill:#FF0000;font-family:ABeeZee;font-weight:bold;" font-size="18">
+Private Sale             5%
+		</text>
+		<text transform="matrix(1 0 0 1 0 0)" x="38" y="115.3335" style="fill:#FF0000;font-family:ABeeZee;font-weight:bold;" font-size="18">
+Fair launch           20%
+		</text>
+		<text transform="matrix(1 0 0 1 0 0)" x="38" y="149.3335" style="fill:#FF0000;font-family:ABeeZee;font-weight:bold;" font-size="18">
+DEX Liquidity      10%
+		</text>
+		<text transform="matrix(1 0 0 1 0 0)" x="38" y="183.3335" style="fill:#FF0000;font-family:ABeeZee;font-weight:bold;" font-size="18">
+CEX Liquidity      15%
+		</text>
+		<text transform="matrix(1 0 0 1 0 0)" x="38" y="217.3335" style="fill:#FF0000;font-family:ABeeZee;font-weight:bold;" font-size="18">
+Game rewards      50%
+		</text>
+	</g>
+</g>
+</svg>
